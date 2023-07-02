@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, Prarthan here,
+
+- 🔭 I’m currently a pursuing my B.tech in Electrical Engineering from IIT Dharwad
+- 🌱 I’m currently learning technologies related to python
+- 👯 I’m looking to collaborate on SDE projects
+- 🤔 I’m looking for help with using my skills in a professional environment
+- 📫 How to reach me: Drop me a dm on my LinkedIn - https://www.linkedin.com/in/prarthan-r-talwar/
 
 <!--
 **prarthantalwar/prarthantalwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
