@@ -85,9 +85,9 @@
 </div>
 
 ###
-
+<!--
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/prarthantalwar/prarthantalwar/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/prarthantalwar/prarthantalwar/output/snake.svg" alt="Snake animation" /> -->
 
 ###
