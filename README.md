@@ -10,15 +10,21 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prarthan+R+Talwar!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from India 👩‍💻</h3>
+
+<br/>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<!-- <h3 align="left">👩‍💻  About Me</h3> -->
 
 ###
 
-<p align="left">I'm Prarthan,<br><br>- 🔭 I’m currently a pursuing my B.tech in Electrical Engineering from IIT Dharwad<br>- 🌱 I’m currently learning technologies related to python and software development<br>- 👯 I’m looking to collaborate on software development projects<br>- 🤔 I’m looking for projects and roles that can help increase my knowledge and help me upskill<br>- 📫 How to reach me: Drop me a dm on my LinkedIn or mail. You know where to click for the links :)</p>
+<p align="left">- 🔭 I’m currently a pursuing my B.tech in Electrical Engineering from IIT Dharwad<br>- 🌱 I’m currently learning technologies related to python and software development<br>- 👯 I’m looking to collaborate on software development projects<br>- 🤔 I’m looking for projects and roles that can help increase my knowledge and help me upskill<br>- 📫 How to reach me: Drop me a dm on my LinkedIn or mail. You know where to click for the links :)</p>
 
 
 ###
@@ -27,7 +33,7 @@
 
 ###
 
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left">🛠 Language, frameworks and tools</h2>
 
 ###
 <div align="left">
@@ -68,6 +74,9 @@
   </a>
   <a href="https://www.linkedin.com/in/prarthan-r-talwar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://prarthans-portfolio.onrender.com/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="35" alt="portfolio logo" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
