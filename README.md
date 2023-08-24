@@ -93,10 +93,25 @@
 <!--   <img src="https://github-readme-stats-git-masterrstaarickstaa.vercel.app/api/top-langs?username=prarthantalwar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 </div>
 
+<div align=center>
+<!--   <img width=390 src="https://streak-stats.demolab.com/?user=prarthantalwar&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=prarthantalwar&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+<!--   <img width=325 align="center" src="https://github-readme-stats-prarthantalwar.vercel.app/api/top-langs/?username=prarthantalwar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+</div>
+
 ###
 <!--
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/prarthantalwar/prarthantalwar/output/snake.svg" alt="Snake animation" /> -->
+
+###
+
+<br clear="both">
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin+or+Gmail!;I'm+always+down+for+a+collab+:)">
+</h3>
 
 ###
