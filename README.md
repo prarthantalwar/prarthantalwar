@@ -28,6 +28,7 @@
 
 
 ###
+<hr/>
 <br clear="both">
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
@@ -81,24 +82,36 @@
 </div>
 
 ###
-
+<hr/>
 <br clear="both">
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prarthantalwar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=prarthantalwar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-<!--   <img src="https://github-readme-stats-git-masterrstaarickstaa.vercel.app/api/top-langs?username=prarthantalwar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
+   <img src="https://github-readme-stats-git-masterrstaarickstaa.vercel.app/api/top-langs?username=prarthantalwar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
 </div>
 
 <div align=center>
-<!--   <img width=390 src="https://streak-stats.demolab.com/?user=prarthantalwar&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
+<!--   <img width=390 src="https://streak-stats.demolab.com/?user=prarthantalwar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=prarthantalwar&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-<!--   <img width=325 align="center" src="https://github-readme-stats-prarthantalwar.vercel.app/api/top-langs/?username=prarthantalwar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+<!--   <img width=325 align="center" src="https://github-readme-stats-prarthantalwar.vercel.app/api/top-langs/?username=prarthantalwar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
 </div>
+-->
+
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=prarthantalwar&count_private=true&theme=dracula&border_radius=10" height="150" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=prarthantalwar&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" height="150" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=prarthantalwar&hide=HTML&langs_count=8&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
 
 ###
 <!--
@@ -106,9 +119,18 @@
 
 <img src="https://raw.githubusercontent.com/prarthantalwar/prarthantalwar/output/snake.svg" alt="Snake animation" /> -->
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/prarthantalwar/prarthantalwar/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+<hr/>
+
 ###
 
-<br clear="both">
+
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin+or+Gmail!;I'm+always+down+for+a+collab+:)">
