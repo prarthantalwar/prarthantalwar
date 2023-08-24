@@ -14,7 +14,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prarthan+R+Talwar!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India 👩‍💻</h3>
+<h3 align="center">A passionate software developer from Mangalore, India 👩‍💻</h3>
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 ###
 <hr/>
-<br clear="both">
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
@@ -37,6 +37,7 @@
 <h2 align="left">🛠 Language, frameworks and tools</h2>
 
 ###
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -83,7 +84,7 @@
 
 ###
 <hr/>
-<br clear="both">
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
