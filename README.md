@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently a pursuing my B.tech in Electrical Engineering from IIT Dharwad<br>- 🌱 I’m currently learning technologies related to python and software development<br>- 👯 I’m looking to collaborate on software development projects<br>- 🤔 I’m looking for projects and roles that can help increase my knowledge and help me upskill<br>- 📫 How to reach me: Drop me a dm on my LinkedIn or mail. You know where to click for the links :)</p>
+<p align="left">- 🔭 I’m currently pursuing my B.tech in Electrical Engineering from IIT Dharwad<br>- 🌱 I’m currently learning technologies related to python and software development<br>- 👯 I’m looking to collaborate on software development projects<br>- 🤔 I’m looking for projects and roles that can help increase my knowledge and help me upskill<br>- 📫 How to reach me: Drop me a dm on my LinkedIn or mail. You know where to click for the links :)</p>
 
 
 ###
